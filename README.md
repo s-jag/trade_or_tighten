@@ -32,9 +32,11 @@ Trade or Tighten Simulator is an engaging and interactive web application that a
    git clone https://github.com/[your-username]/trade-or-tighten-simulator.git
    
 2. Install NPM packages:
+    ```bash
     npm install
 
-4. Serve the application locally:
+3. Serve the application locally:
+   ```bash
     npm run serve
 
 ### Usage
