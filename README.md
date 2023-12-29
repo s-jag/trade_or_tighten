@@ -29,7 +29,7 @@ Trade or Tighten Simulator is an engaging and interactive web application that a
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/[your-username]/trade-or-tighten-simulator.git
+   git clone https://github.com/s-jag/trade_or_tighten.git
    
 2. Install NPM packages:
     ```bash
@@ -49,4 +49,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Sahith Jagarlamudi
 
 ### Project Link: 
-https://github.com/s-jag/trade_or_tighten_sim
+https://github.com/s-jag/trade_or_tighten
