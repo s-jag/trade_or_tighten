@@ -46,7 +46,7 @@ After launching the app, users can create a new game room or join an existing on
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
-Your Name - your-email@example.com
+Sahith Jagarlamudi
 
 ### Project Link: 
-https://github.com/s-jag/trade-or-tighten-sim
+https://github.com/s-jag/trade_or_tighten_sim
