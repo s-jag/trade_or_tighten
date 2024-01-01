@@ -1,18 +1,27 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <vue-playing-card cover />
 </template>
+
+
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import VuePlayingCard from './components/PlayingCard.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    VuePlayingCard
   }
+  
 }
+
 </script>
+
+
 
 <style>
 #app {
